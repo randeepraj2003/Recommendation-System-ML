@@ -1,2 +1,2 @@
 # Recommendation-System-ML
-End-to-end recommendation system project using machine learning techniques, including data preprocessing, exploratory data analysis, model building, and evaluation for personalized recommendations.
+Machine learning–based recommendation system for personalized product suggestions using data preprocessing, EDA, and model evaluation.
