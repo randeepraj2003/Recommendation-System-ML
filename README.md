@@ -11,6 +11,7 @@ Finding relevant projects manually is time-consuming and inefficient due to:
  * Large and unstructured project datasets
  * Lack of personalization
  * Poor discoverability
+
 This system addresses these challenges by providing personalized, data-driven project recommendations.
 
 ---
@@ -22,6 +23,7 @@ The recommendation engine:
  * Converts raw data into meaningful numerical representations
  * Computes similarity scores to rank the most relevant projects
  * Returns top-N personalized recommendations
+
 Designed to be model-agnostic, allowing future integration of deep learning or hybrid approaches.
 
 ---
