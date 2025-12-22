@@ -29,29 +29,6 @@ Designed to be model-agnostic, allowing future integration of deep learning or h
 ---
 
 
-# System Architecture
-
- User Input
-   │
-   ▼
-Data Preprocessing
-   │
-   ▼
-Feature Engineering (Text Vectorization)
-   │
-   ▼
-Similarity Modeling (Cosine / KNN)
-   │
-   ▼
-Ranking Engine
-   │
-   ▼
-Top-N Project Recommendations
-
-
----
-
-
 # Key Features
 
 * Personalized Recommendations using similarity-based ML models
@@ -72,6 +49,7 @@ Top-N Project Recommendations
 * Evaluation:
    * Ranking relevance
    * Manual qualitative validation
+
 The architecture mirrors recommendation pipelines used in content discovery platforms.
 
 ---
