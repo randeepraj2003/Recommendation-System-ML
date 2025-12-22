@@ -98,5 +98,3 @@ The dataset contains information related to users, products, and their interacti
 ---
 
 
-⭐ *This project demonstrates practical skills required for Data Scientist, ML Engineer, and AI Engineer roles.*
-
