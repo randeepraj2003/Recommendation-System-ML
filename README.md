@@ -63,7 +63,7 @@ The dataset contains information related to users, products, and their interacti
 ##  Tools & Technologies
 
 * **Programming Language:** Python
-* **Libraries:** Pandas, NumPy, Matplotlib / Seaborn
+* **Libraries:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
 * **Techniques:** EDA, Data Preprocessing, Machine Learning
 
